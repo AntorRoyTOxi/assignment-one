@@ -91,7 +91,7 @@ font-weight: 700;
      background-repeat: no-repeat; 
       width: 1320px; 
        height: 600px;
-       margin: 120px 70px ; 
+       margin: 120px 70px 100px ; 
         border-radius:10px ;
    } 
    .section2-total-div{ 
@@ -317,7 +317,7 @@ font-weight: 900;
         background-image: url('Rectangle\ 1.png'); 
         width: 1320px; 
         height: 400px; 
-         border-radius: 8px;  
+         border-radius: 10px;  
           background-repeat: no-repeat; 
          background-position: right;
         
@@ -336,14 +336,163 @@ font-weight: 900;
          }
      .group44{   
       
-      padding-bottom: 230px; 
-       padding-left: 20px;
+      padding-bottom: 150px; 
+       padding-left: 100px;
        
        
      
      } 
     .group75{ 
       height: 500px; 
-        padding-top: 100px; 
-         padding-left: 100px;
-    }
+        padding-top: 20px; 
+         padding-left: 150px; 
+          
+    }  
+
+     /* section3 work */ 
+
+
+
+     .portfolio-div{ 
+       margin-left: 70px;
+     } 
+      .gift{ 
+        color: #F00;
+        font-family: 'Inter', sans-serif;
+       font-size: 16px;
+        font-weight: 500; 
+        margin: 10px 0;
+      
+      
+       
+   
+
+      } 
+       .asome-portfolio{ 
+        color: #070211;
+        font-family: 'Merriweather', serif;
+        font-size: 45px;
+        font-weight: 900; 
+        margin: 10px 0;  
+       
+        
+
+
+       } 
+         .asome-pera{ 
+          color: rgba(7, 2, 17, 0.60);
+          font-family: 'Inter', sans-serif;
+          font-size: 20px;
+          font-weight: 400; 
+           width: 900px;
+
+         } 
+             .all-img-div{
+              margin-top: 30px;
+             } 
+              .picture{ 
+                margin: 5px;  
+                 
+                 
+              } 
+               .picture:hover{ 
+               border: 1px solid rgb(37, 5, 51);  
+                border-radius: 20px;
+              
+               }  
+                  /* section six start */ 
+
+                  .last-main-div{  
+                     margin: 80px 70px;
+                    width: 1320px; 
+                     height: 600px; 
+                      background-color: rgba(255, 0, 0, 0.05); 
+                       border-radius: 15px;
+                  } 
+                   .last-main-div-under{ 
+                     text-align: center; 
+                    padding-top: 100px;
+                   } 
+                    .last-picture{ 
+                      width: 100px;
+                     height: 100px;
+
+                    } 
+                     .last-main-head{ 
+                      color: #070211;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 48px;
+font-weight: 900; 
+ margin-bottom: 0;
+
+
+      }
+.last-main-pera{
+color: rgba(7, 2, 17, 0.60);
+
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-weight: 400; 
+ width: 800px; 
+ margin-left: 250px; 
+  margin-top: 10px;
+
+                     }   
+                     
+                     
+
+
+                     /* this is form part */ 
+                      .total-form-div{
+                         margin-top: 40px;
+                      }
+                      
+                      .form-div{ 
+                         display: flex; 
+                          margin-left: 450px;
+                      } 
+                       .last-email{ 
+                         width: 250px; 
+                          height: 50px; 
+                           background-color: #fff; 
+                            border: none; 
+                             padding-left: 20px; 
+                              border-radius: 30px 0 0 30px;
+                       } 
+                        .button3{ 
+                           border: none; 
+                            width: 150px; 
+                             
+                             background-color:#F00;
+                               text-align: center; 
+                              
+                             height: 50px; 
+                              border-radius: 0 30px 30px 0;
+                        } 
+                         .subcribe{ 
+                          color: #FFF;
+
+font-family: Inter;
+font-size: 15px;
+font-weight: 600;
+
+
+                         } 
+
+
+                         input::placeholder{ 
+                          font-size: 15px; 
+                           color: rgba(7, 2, 17, 0.30);
+                         }   
+
+
+
+                         /* main part complete */  
+
+
+                         
+   
+     
+
+
