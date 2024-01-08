@@ -268,5 +268,82 @@ font-weight: 500;
  padding-left: 80px;  
   padding-top: 150px;
  
-   }  
-    
+   }    
+
+/* 
+   section4 work */  
+    .total-full-div{ 
+      margin-top: 120px;
+    }
+   .what-is-fuction{ 
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+     font-weight: 500; 
+      text-align: center;
+
+   } 
+    .fithpersent-sale{ 
+      color: #070211;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 72px;
+
+font-weight: 900; 
+ margin-top: 0; 
+  margin-bottom: 0;
+
+    }  
+     .dolor-pera{ 
+      color: rgba(7, 2, 17, 0.60);
+
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+
+font-weight: 500;
+ width: 900px;  
+  height:20px;
+  padding-left: 300px; 
+  text-align: center; 
+   margin-top: 20px;
+     } 
+      .holidays{ 
+        color: #F00;
+font-family: 'Merriweather', serif;
+font-size: 72px;
+font-weight: 900;
+      } 
+       .rectangle{ 
+        background-image: url('Rectangle\ 1.png'); 
+        width: 1320px; 
+        height: 400px; 
+         border-radius: 8px;  
+          background-repeat: no-repeat; 
+         background-position: right;
+        
+       } 
+        .rectangle2{ 
+          background-image: url('Rectangle\ 2.png'); 
+           width: 1320px; 
+            height: 628px; 
+             border-radius: 8px;  
+              background-repeat: no-repeat; 
+               background-position: bottom;
+              
+        } 
+         .img-use-tag{ 
+          margin: 100px 70px;
+         }
+     .group44{   
+      
+      padding-bottom: 230px; 
+       padding-left: 20px;
+       
+       
+     
+     } 
+    .group75{ 
+      height: 500px; 
+        padding-top: 100px; 
+         padding-left: 100px;
+    }
