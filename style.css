@@ -1,36 +1,23 @@
 /* this is a header part */ 
- header{ 
-    
-     width: 1320px;
-     height: 600px; 
-     background-image:linear-gradient(#070211, #07021100), url('banner\ Image.png'); 
-     background-repeat: no-repeat;  
-      margin-left: 70px;  
-       margin-top: 50px;  
-        border-radius: 10px;
-        
-        
-     
-      
-     
- }
-.header-total-div{ 
-    width: 600px; 
+     header{
+      width: 1320px;
+      height: 600px; 
+      background-image:linear-gradient(#070211, #07021100), url('banner\ Image.png'); 
+      background-repeat: no-repeat;  
+      margin-left: 90px;  
+      margin-top: 50px;  
+      border-radius: 10px;}
+    .header-total-div{ 
+     width: 600px; 
      padding-top: 155px ; 
-     margin-left: 350px;
-  
-}
-  .header-frist-part{ 
+     margin-left: 350px;}
+    .header-frist-part{ 
     color: #FFF;
-text-align: center;
-font-family: 'Merriweather', serif;
-font-size: 32px;
-font-weight: 400;  
- margin-bottom: 0;
-  
-  
-
-  } 
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-weight: 400;  
+    margin-bottom: 0;} 
    .header-last-part{ 
     color: #FFF;
 text-align: center;
@@ -50,13 +37,12 @@ font-weight: 900;
          
   .off{ 
     color: #F00;
-text-align: center;
-font-family: 'Inter', sans-serif;
-font-size: 75px;
-
-font-weight: 700; 
- margin-top: 120px;  
-  margin-bottom: 30px;
+    text-align: center;
+   font-family: 'Inter', sans-serif;
+   font-size: 75px;
+   font-weight: 700; 
+   margin-top: 120px;  
+   margin-bottom: 30px;
   
 
   } 
@@ -65,7 +51,6 @@ font-weight: 700;
 text-align: center;
 font-family: 'Inter', sans-serif;
 font-size: 18px;
-
 font-weight: 500; 
  margin-bottom: 0; 
   margin-top:0;
@@ -91,7 +76,7 @@ font-weight: 700;
      background-repeat: no-repeat; 
       width: 1320px; 
        height: 600px;
-       margin: 120px 70px 100px ; 
+       margin: 120px 90px 100px ; 
         border-radius:10px ;
    } 
    .section2-total-div{ 
@@ -127,11 +112,11 @@ font-weight: 700;
           border: none; 
            border-radius: 5px;
          color: #FFF;
-text-align: center;
-font-family: 'Inter', sans-serif;
-font-size: 18px;
-font-weight: 700; 
- padding: 15px 25px;
+          text-align: center;
+        font-family: 'Inter', sans-serif;
+        font-size: 18px;
+        font-weight: 700; 
+         padding: 15px 25px;
 
 
       } 
@@ -144,7 +129,7 @@ font-weight: 700;
             height: 482px; 
              background-image:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); 
               border-radius: 10px;  
-            margin: 0 70px 100px; 
+            margin: 0 90px 100px; 
              
                
          } 
@@ -197,7 +182,7 @@ font-weight: 700;
           }
            .second-div{ 
             display: flex; 
-             margin-left: 100px;
+             margin-left: 150px;
            } 
 
           .first-head{ 
@@ -216,21 +201,17 @@ font-weight: 500;
               font-weight: 900; 
                margin-top: 15px; 
                 margin-bottom: 0;
-
-
-          }
+ }
   
           .first-pera{ 
             color: rgba(7, 2, 17, 0.60);
             font-family: 'Inter', sans-serif;
-        font-size: 16px;
-
-         font-weight: 400; 
-          width: 350px; 
+           font-size: 16px;
+          font-weight: 400; 
+           width: 350px; 
            line-height: 28px; 
-            margin-top: 15px;
-
-          } 
+           margin-top: 15px;
+             } 
 
 
               /* five-div work */
@@ -238,13 +219,12 @@ font-weight: 500;
      margin-left: 80px; 
      height: 463px; 
      width: 463px;
-      
-        margin-bottom: 50px; 
-         border-radius: 100%; 
-          border: 10px solid #F00;
+    margin-bottom: 50px; 
+     border-radius: 100%; 
+    border: 10px solid #F00;
 } 
 .section4-img{ 
-     padding: 50px;
+  padding: 50px;
 }
 
               .last-head{ 
@@ -252,121 +232,101 @@ font-weight: 500;
                 font-family: 'Inter', sans-serif;
                 font-size: 45px;
                 font-weight: 700;
-         
-              } 
+                    } 
                .last-pera{  
                 color: rgba(7, 2, 17, 0.60);
                 font-family: 'Inter', sans-serif;
                 font-size: 18px;
-    
                 font-weight: 400;
                 line-height: 28px; 
                 width: 300px;
                }
   /* five div work */
    .five-div{ 
- padding-left: 80px;  
-  padding-top: 150px;
- 
-   }    
+     padding-left: 80px;  
+     padding-top: 150px;
+         }    
 
 /* 
    section4 work */  
-    .total-full-div{ 
-      margin-top: 120px;
+  .total-full-div{ 
+    margin-top: 120px;
     }
    .what-is-fuction{ 
     color: #070211;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
-     font-weight: 500; 
-      text-align: center;
-
-   } 
+    font-weight: 500; 
+    text-align: center;
+} 
     .fithpersent-sale{ 
       color: #070211;
-text-align: center;
-font-family: 'Merriweather', serif;
-font-size: 72px;
-
-font-weight: 900; 
- margin-top: 0; 
-  margin-bottom: 0;
-
-    }  
+      text-align: center;
+      font-family: 'Merriweather', serif;
+      font-size: 72px;
+      font-weight: 900; 
+      margin-top: 0; 
+      margin-bottom: 0;
+             }  
      .dolor-pera{ 
       color: rgba(7, 2, 17, 0.60);
-
-font-family: 'Inter', sans-serif;
-font-size: 20px;
-
-font-weight: 500;
- width: 900px;  
-  height:20px;
-  padding-left: 300px; 
-  text-align: center; 
-   margin-top: 20px;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      font-weight: 500;
+      width: 900px;  
+      height:20px;
+      padding-left: 300px; 
+      text-align: center; 
+      margin-top: 20px;
      } 
       .holidays{ 
         color: #F00;
-font-family: 'Merriweather', serif;
-font-size: 72px;
-font-weight: 900;
+        font-family: 'Merriweather', serif;
+        font-size: 72px;
+        font-weight: 900;
       } 
        .rectangle{ 
         background-image: url('Rectangle\ 1.png'); 
         width: 1320px; 
         height: 400px; 
-         border-radius: 10px;  
-          background-repeat: no-repeat; 
-         background-position: right;
-        
-       } 
-        .rectangle2{ 
-          background-image: url('Rectangle\ 2.png'); 
-           width: 1320px; 
-            height: 628px; 
-             border-radius: 8px;  
-              background-repeat: no-repeat; 
-               background-position: bottom;
-              
+        border-radius: 10px;  
+        background-repeat: no-repeat; 
+        background-position: right;
         } 
+        .rectangle2{ 
+           background-image: url('Rectangle\ 2.png'); 
+           width: 1320px; 
+           height: 628px; 
+           border-radius: 8px;  
+           background-repeat: no-repeat; 
+           background-position: bottom;
+               } 
          .img-use-tag{ 
-          margin: 100px 70px;
+           margin: 100px 90px;
          }
-     .group44{   
-      
-      padding-bottom: 150px; 
+     .group44{
+       padding-bottom: 150px; 
        padding-left: 100px;
-       
-       
-     
-     } 
+       } 
     .group75{ 
       height: 500px; 
-        padding-top: 20px; 
-         padding-left: 150px; 
-          
-    }  
+      padding-top: 20px; 
+      padding-left: 150px; 
+      }  
 
      /* section3 work */ 
 
 
 
      .portfolio-div{ 
-       margin-left: 70px;
+       margin-left: 90px;
      } 
       .gift{ 
         color: #F00;
         font-family: 'Inter', sans-serif;
-       font-size: 16px;
+        font-size: 16px;
         font-weight: 500; 
         margin: 10px 0;
-      
-      
-       
-   
-
       } 
        .asome-portfolio{ 
         color: #070211;
@@ -374,68 +334,58 @@ font-weight: 900;
         font-size: 45px;
         font-weight: 900; 
         margin: 10px 0;  
-       
-        
-
-
        } 
          .asome-pera{ 
           color: rgba(7, 2, 17, 0.60);
           font-family: 'Inter', sans-serif;
           font-size: 20px;
           font-weight: 400; 
-           width: 900px;
-
-         } 
+          width: 900px;
+                    } 
              .all-img-div{
-              margin-top: 30px;
+               margin-top: 30px;
              } 
               .picture{ 
                 margin: 5px;  
-                 
-                 
-              } 
+                 } 
                .picture:hover{ 
-               border: 1px solid rgb(37, 5, 51);  
+                border: 1px solid rgb(37, 5, 51);  
                 border-radius: 20px;
-              
-               }  
+              }  
                   /* section six start */ 
 
                   .last-main-div{  
-                     margin: 80px 70px;
-                    width: 1320px; 
+                     margin: 80px 90px;
+                     width: 1320px; 
                      height: 600px; 
-                      background-color: rgba(255, 0, 0, 0.05); 
-                       border-radius: 15px;
+                     background-color: rgba(255, 0, 0, 0.05); 
+                     border-radius: 15px;
                   } 
                    .last-main-div-under{ 
-                     text-align: center; 
+                    text-align: center; 
                     padding-top: 100px;
                    } 
                     .last-picture{ 
-                      width: 100px;
+                     width: 100px;
                      height: 100px;
 
                     } 
                      .last-main-head{ 
                       color: #070211;
-text-align: center;
-font-family: 'Merriweather', serif;
-font-size: 48px;
-font-weight: 900; 
- margin-bottom: 0;
-
-
-      }
+                      text-align: center;
+                      font-family: 'Merriweather', serif;
+                      font-size: 48px;
+                      font-weight: 900; 
+                      margin-bottom: 0;
+                                 }
                       .last-main-pera{
-                           color: rgba(7, 2, 17, 0.60);
-                           font-family: 'Inter', sans-serif;
-                           font-size: 20px;
-                           font-weight: 400; 
-                           width: 800px; 
-                           margin-left: 250px; 
-                           margin-top: 10px;
+                          color: rgba(7, 2, 17, 0.60);
+                          font-family: 'Inter', sans-serif;
+                          font-size: 20px;
+                          font-weight: 400; 
+                          width: 800px; 
+                          margin-left: 250px; 
+                          margin-top: 10px;
                                           }   
                      
                      
@@ -469,14 +419,14 @@ font-weight: 900;
                                                  } 
                       .subcribe{ 
                           color: #FFF;
-                          font-family: Inter;
+                          font-family: 'Inter', sans-serif;
                           font-size: 15px;
                           font-weight: 600;
                                         } 
 
 
                          input::placeholder{ 
-                          font-size: 15px; 
+                           font-size: 15px; 
                            color: rgba(7, 2, 17, 0.30);
                                                }  
                           
@@ -488,36 +438,32 @@ font-weight: 900;
 
 
           .main-footer{
-        
-              height: 600px; 
+               height: 600px; 
                background-color: #070211; 
-                border-radius: 10px; 
+               border-radius: 10px; 
                margin: 120px 0 0; 
-           
-               
-                  
-          }   
-           .main-div-uppar-content{ 
-             display: flex;
-             justify-content: space-around; 
-           }                  
+                      }   
+               .main-div-uppar-content{ 
+                  display: flex;
+                  justify-content: space-around;
+                   
+                        }                  
                  .one{ 
                   color: #FFF;
-font-family: Inter;
-font-size: 24px;
-
-font-weight: 500;
-line-height: 40px; 
- width: 350px; 
+                  font-family: 'Inter', sans-serif;
+                  font-size: 24px;
+                  font-weight: 500;
+                  line-height: 40px; 
+                  width: 350px; 
+                   width: 400px; 
  
                  } 
                   .two{ 
-                    color: #FFF;
-font-family: Inter;
-font-size: 24px;
-
-font-weight: 500; 
-display: inline; 
+                  color: #FFF;
+                  font-family: 'Inter', sans-serif;
+                  font-size: 24px;
+                  font-weight: 500; 
+                  display: inline; 
 
 
 
@@ -535,6 +481,8 @@ display: inline;
                     .div-two{ 
                        margin-top: 130px;
                     } 
+                    
+                     
                      .logo{ 
                        margin-top: 40px;
                         margin-left: 620px;
@@ -553,7 +501,7 @@ display: inline;
 
                       .last-footer-pera{ 
                         color: #FFF;
-                        font-family: Inter;
+                        font-family: 'Inter', sans-serif;
                         font-size: 20px;
                         font-weight: 500;
 
